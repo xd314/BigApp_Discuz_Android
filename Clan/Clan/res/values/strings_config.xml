@@ -21,7 +21,7 @@
     <string name="custom_theme">1</string>
 
     <!-- api地址 ：您的站点地址 + api/mobile/iyz_index.php-->
-    <string name="api_url">http://bbs.bigappdemo.com/api/mobile/iyz_index.php</string>
-    <string name="api_url_base">http://bbs.bigappdemo.com/</string>
+    <string name="api_url">http://woheni99.com/api/mobile/iyz_index.php</string>
+    <string name="api_url_base">http://woheni99.com/</string>
     <string name="api_url_path">api/mobile/iyz_index.php</string>
 </resources>
