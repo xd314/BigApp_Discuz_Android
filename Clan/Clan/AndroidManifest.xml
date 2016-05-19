@@ -19,7 +19,7 @@
         android:name=".app.ClanApplication"
         android:allowBackup="true"
         android:hardwareAccelerated="false"
-        android:icon="@drawable/ic_launcher"
+        android:icon="@drawable/ic_launcher2"
         android:label="@string/app_name">
         <activity
             android:name="com.youzu.clan.guide.GuideActivity"
